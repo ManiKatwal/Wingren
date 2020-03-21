@@ -15,8 +15,8 @@ public class StudentRecord {
 
 			System.out.println("Connection Established !!!");
 			stmt.setString(1, "");
-			stmt.setInt(2, 45);
-			stmt.setString(3, "Austin");
+			stmt.setInt(2, 47);
+			stmt.setString(3, "Irving");
 			stmt.setString(4, "Tx");
 			stmt.execute();
 			System.out.println("Connection Successful !!!");

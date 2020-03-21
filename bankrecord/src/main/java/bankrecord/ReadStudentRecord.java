@@ -24,6 +24,7 @@ public class ReadStudentRecord {
 				String city = result.getString("city");
 				System.out.println(studentID + "," + name + " ," + LocationID + " ," + city);
 
+				System.out.println();
 			}
 
 		} catch (SQLException e) {

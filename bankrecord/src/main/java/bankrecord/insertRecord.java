@@ -17,7 +17,7 @@ public class insertRecord {
 			stmt.setString(1, "Sobha");
 			stmt.setString(2, "Chhetri K");
 			stmt.setString(3, "NYK ");
-			stmt.setString(4, "11/04/1999");
+			stmt.setString(4, "12/04/1998");
 			stmt.setInt(5, 200036767);
 			stmt.execute();
 
